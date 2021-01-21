@@ -1,0 +1,9 @@
+/*
+!Pratica
+!Teoria
+!Testes
+!.gitignore
+/Pratica/*_sol/
+/*_ex/
+.idea/
+cmake-build-debug/
